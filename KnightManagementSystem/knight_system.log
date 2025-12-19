@@ -1,0 +1,559 @@
+груд. 04, 2025 6:28:42 ПП Util.MyLogger getLogger
+INFO: ✅ Logger ініціалізовано успішно!
+груд. 04, 2025 6:28:43 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 6:28:43 ПП Main main
+INFO: Запуск програми
+груд. 04, 2025 6:28:43 ПП Main main
+INFO: Knight Management System запущена
+груд. 04, 2025 6:28:43 ПП Main main
+INFO: Logger інціалізований
+груд. 04, 2025 6:28:43 ПП Main main
+INFO: Усі команди зареєстровані
+груд. 04, 2025 6:29:57 ПП Util.MyLogger getLogger
+INFO: ✅ Logger ініціалізовано успішно!
+груд. 04, 2025 6:29:57 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 6:29:57 ПП Main main
+INFO: Запуск програми
+груд. 04, 2025 6:29:57 ПП Main main
+INFO: Knight Management System запущена
+груд. 04, 2025 6:29:57 ПП Main main
+INFO: Logger інціалізований
+груд. 04, 2025 6:29:57 ПП Util.MyLogger logException
+SEVERE: 🚨 TEST CRITICAL ERROR: 
+java.lang.ArithmeticException: / by zero
+	at Main.main(Main.java:23)
+
+груд. 04, 2025 6:30:00 ПП Main main
+INFO: Усі команди зареєстровані
+груд. 04, 2025 6:30:21 ПП Util.MyLogger getLogger
+INFO: ✅ Logger ініціалізовано успішно!
+груд. 04, 2025 6:30:21 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 6:30:21 ПП Main main
+INFO: Запуск програми
+груд. 04, 2025 6:30:21 ПП Main main
+INFO: Knight Management System запущена
+груд. 04, 2025 6:30:21 ПП Main main
+INFO: Logger інціалізований
+груд. 04, 2025 6:30:21 ПП Util.MyLogger logException
+SEVERE: Критична помилка: 
+java.lang.ArithmeticException: / by zero
+	at Main.main(Main.java:23)
+
+груд. 04, 2025 6:30:24 ПП Main main
+INFO: Усі команди зареєстровані
+груд. 04, 2025 8:33:59 ПП Util.MyLogger getLogger
+INFO: ✅ Logger ініціалізовано успішно!
+груд. 04, 2025 8:33:59 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:33:59 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 04, 2025 8:33:59 ПП Util.MyLogger logWarning
+WARNING:  Невірний індекс для видалення: 5
+груд. 04, 2025 8:33:59 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:33:59 ПП Util.MyLogger logWarning
+WARNING: ⚠ Лицар не знайдений: NonExistent
+груд. 04, 2025 8:33:59 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:33:59 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 04, 2025 8:33:59 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Lancelot (рівень: 6)
+груд. 04, 2025 8:33:59 ПП Util.MyLogger logInfo
+INFO: Очищено 2 лицарів
+груд. 04, 2025 8:33:59 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:33:59 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 04, 2025 8:33:59 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Lancelot (рівень: 6)
+груд. 04, 2025 8:33:59 ПП Util.MyLogger logInfo
+INFO: Лицар видален: Arthur
+груд. 04, 2025 8:33:59 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:33:59 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 04, 2025 8:33:59 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Lancelot (рівень: 6)
+груд. 04, 2025 8:33:59 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Gawain (рівень: 4)
+груд. 04, 2025 8:33:59 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:33:59 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 04, 2025 8:33:59 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:33:59 ПП Util.MyLogger logWarning
+WARNING:  Невірний індекс: 5
+груд. 04, 2025 8:33:59 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:33:59 ПП Util.MyLogger logWarning
+WARNING:  Невірний індекс: -1
+груд. 04, 2025 8:33:59 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:33:59 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 04, 2025 8:33:59 ПП Util.MyLogger logInfo
+INFO:  Лицар знайдений: arthur
+груд. 04, 2025 8:33:59 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:33:59 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 04, 2025 8:33:59 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:33:59 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 04, 2025 8:33:59 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:33:59 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 04, 2025 8:33:59 ПП Util.MyLogger logInfo
+INFO:  Лицар знайдений: Arthur
+груд. 04, 2025 8:35:56 ПП Util.MyLogger getLogger
+INFO: ✅ Logger ініціалізовано успішно!
+груд. 04, 2025 8:35:56 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:35:56 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 04, 2025 8:35:56 ПП Util.MyLogger logWarning
+WARNING:  Невірний індекс для видалення: 5
+груд. 04, 2025 8:35:56 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:35:56 ПП Util.MyLogger logWarning
+WARNING: ⚠ Лицар не знайдений: NonExistent
+груд. 04, 2025 8:35:56 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:35:56 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 04, 2025 8:35:56 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Lancelot (рівень: 6)
+груд. 04, 2025 8:35:56 ПП Util.MyLogger logInfo
+INFO: Очищено 2 лицарів
+груд. 04, 2025 8:35:56 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:35:56 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 04, 2025 8:35:56 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Lancelot (рівень: 6)
+груд. 04, 2025 8:35:56 ПП Util.MyLogger logInfo
+INFO: Лицар видален: Arthur
+груд. 04, 2025 8:35:56 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:35:56 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 04, 2025 8:35:56 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Lancelot (рівень: 6)
+груд. 04, 2025 8:35:56 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Gawain (рівень: 4)
+груд. 04, 2025 8:35:56 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:35:56 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 04, 2025 8:35:56 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:35:56 ПП Util.MyLogger logWarning
+WARNING:  Невірний індекс: 5
+груд. 04, 2025 8:35:56 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:35:56 ПП Util.MyLogger logWarning
+WARNING:  Невірний індекс: -1
+груд. 04, 2025 8:35:56 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:35:56 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 04, 2025 8:35:56 ПП Util.MyLogger logInfo
+INFO:  Лицар знайдений: arthur
+груд. 04, 2025 8:35:56 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:35:56 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 04, 2025 8:35:56 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:35:56 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 04, 2025 8:35:56 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:35:56 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 04, 2025 8:35:56 ПП Util.MyLogger logInfo
+INFO:  Лицар знайдений: Arthur
+груд. 04, 2025 8:38:14 ПП Util.MyLogger getLogger
+INFO:  Logger ініціалізовано успішно!
+груд. 04, 2025 8:38:14 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:38:14 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 04, 2025 8:38:14 ПП Util.MyLogger logWarning
+WARNING:  Невірний індекс для видалення: 5
+груд. 04, 2025 8:38:14 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:38:14 ПП Util.MyLogger logWarning
+WARNING: ⚠ Лицар не знайдений: NonExistent
+груд. 04, 2025 8:38:14 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:38:14 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 04, 2025 8:38:14 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Lancelot (рівень: 6)
+груд. 04, 2025 8:38:14 ПП Util.MyLogger logInfo
+INFO: Очищено 2 лицарів
+груд. 04, 2025 8:38:14 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:38:14 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 04, 2025 8:38:14 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Lancelot (рівень: 6)
+груд. 04, 2025 8:38:14 ПП Util.MyLogger logInfo
+INFO: Лицар видален: Arthur
+груд. 04, 2025 8:38:14 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:38:14 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 04, 2025 8:38:14 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Lancelot (рівень: 6)
+груд. 04, 2025 8:38:14 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Gawain (рівень: 4)
+груд. 04, 2025 8:38:14 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:38:14 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 04, 2025 8:38:14 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:38:14 ПП Util.MyLogger logWarning
+WARNING:  Невірний індекс: 5
+груд. 04, 2025 8:38:14 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:38:14 ПП Util.MyLogger logWarning
+WARNING:  Невірний індекс: -1
+груд. 04, 2025 8:38:14 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:38:14 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 04, 2025 8:38:14 ПП Util.MyLogger logInfo
+INFO:  Лицар знайдений: arthur
+груд. 04, 2025 8:38:14 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:38:14 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 04, 2025 8:38:14 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:38:14 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 04, 2025 8:38:14 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:38:14 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 04, 2025 8:38:14 ПП Util.MyLogger logInfo
+INFO:  Лицар знайдений: Arthur
+груд. 04, 2025 8:48:47 ПП Util.MyLogger getLogger
+INFO:  Logger ініціалізовано успішно!
+груд. 04, 2025 8:48:47 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:48:47 ПП Main main
+INFO: Запуск програми
+груд. 04, 2025 8:48:47 ПП Main main
+INFO: Knight Management System запущена
+груд. 04, 2025 8:48:47 ПП Main main
+INFO: Logger інціалізований
+груд. 04, 2025 8:48:47 ПП Util.MyLogger logException
+SEVERE: Критична помилка: 
+java.lang.ArithmeticException: / by zero
+	at Main.main(Main.java:23)
+
+груд. 04, 2025 8:48:50 ПП Main main
+INFO: Усі команди зареєстровані
+груд. 04, 2025 8:49:12 ПП Util.MyLogger getLogger
+INFO:  Logger ініціалізовано успішно!
+груд. 04, 2025 8:49:12 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:49:12 ПП Main main
+INFO: Запуск програми
+груд. 04, 2025 8:49:12 ПП Main main
+INFO: Knight Management System запущена
+груд. 04, 2025 8:49:12 ПП Main main
+INFO: Logger інціалізований
+груд. 04, 2025 8:49:12 ПП Main main
+INFO: Усі команди зареєстровані
+груд. 04, 2025 8:49:51 ПП Util.MyLogger logWarning
+WARNING: ⚠ Лицар не знайдений: Ланселот
+груд. 04, 2025 8:50:01 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Ланселот (рівень: 1)
+груд. 04, 2025 8:50:35 ПП Util.MyLogger getLogger
+INFO:  Logger ініціалізовано успішно!
+груд. 04, 2025 8:50:35 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:50:35 ПП Main main
+INFO: Запуск програми
+груд. 04, 2025 8:50:35 ПП Main main
+INFO: Knight Management System запущена
+груд. 04, 2025 8:50:35 ПП Main main
+INFO: Logger інціалізований
+груд. 04, 2025 8:50:35 ПП Main main
+INFO: Усі команди зареєстровані
+груд. 04, 2025 8:51:17 ПП Util.MyLogger logInfo
+INFO:  Завантажено 2 лицарів з data/knights_7958.dat
+груд. 04, 2025 8:51:21 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Ланселот (рівень: 1)
+груд. 04, 2025 8:51:21 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Дон Кіхот (рівень: 1)
+груд. 04, 2025 8:51:38 ПП Util.MyLogger getLogger
+INFO:  Logger ініціалізовано успішно!
+груд. 04, 2025 8:51:38 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:51:38 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 04, 2025 8:51:38 ПП Util.MyLogger logWarning
+WARNING:  Невірний індекс для видалення: 5
+груд. 04, 2025 8:51:38 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:51:38 ПП Util.MyLogger logWarning
+WARNING: ⚠ Лицар не знайдений: NonExistent
+груд. 04, 2025 8:51:38 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:51:38 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 04, 2025 8:51:38 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Lancelot (рівень: 6)
+груд. 04, 2025 8:51:38 ПП Util.MyLogger logInfo
+INFO: Очищено 2 лицарів
+груд. 04, 2025 8:51:38 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:51:38 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 04, 2025 8:51:38 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Lancelot (рівень: 6)
+груд. 04, 2025 8:51:38 ПП Util.MyLogger logInfo
+INFO: Лицар видален: Arthur
+груд. 04, 2025 8:51:38 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:51:38 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 04, 2025 8:51:38 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Lancelot (рівень: 6)
+груд. 04, 2025 8:51:38 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Gawain (рівень: 4)
+груд. 04, 2025 8:51:38 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:51:38 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 04, 2025 8:51:38 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:51:38 ПП Util.MyLogger logWarning
+WARNING:  Невірний індекс: 5
+груд. 04, 2025 8:51:38 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:51:38 ПП Util.MyLogger logWarning
+WARNING:  Невірний індекс: -1
+груд. 04, 2025 8:51:38 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:51:38 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 04, 2025 8:51:38 ПП Util.MyLogger logInfo
+INFO:  Лицар знайдений: arthur
+груд. 04, 2025 8:51:38 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:51:38 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 04, 2025 8:51:38 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:51:38 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 04, 2025 8:51:38 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:51:38 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 04, 2025 8:51:38 ПП Util.MyLogger logInfo
+INFO:  Лицар знайдений: Arthur
+груд. 04, 2025 8:52:39 ПП Util.MyLogger getLogger
+INFO:  Logger ініціалізовано успішно!
+груд. 04, 2025 8:52:39 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:52:39 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 04, 2025 8:52:39 ПП Util.MyLogger logWarning
+WARNING:  Невірний індекс для видалення: 5
+груд. 04, 2025 8:52:39 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:52:39 ПП Util.MyLogger logWarning
+WARNING: ⚠ Лицар не знайдений: NonExistent
+груд. 04, 2025 8:52:39 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:52:39 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 04, 2025 8:52:39 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Lancelot (рівень: 6)
+груд. 04, 2025 8:52:39 ПП Util.MyLogger logInfo
+INFO: Очищено 2 лицарів
+груд. 04, 2025 8:52:39 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:52:39 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 04, 2025 8:52:39 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Lancelot (рівень: 6)
+груд. 04, 2025 8:52:39 ПП Util.MyLogger logInfo
+INFO: Лицар видален: Arthur
+груд. 04, 2025 8:52:39 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:52:39 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 04, 2025 8:52:39 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Lancelot (рівень: 6)
+груд. 04, 2025 8:52:39 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Gawain (рівень: 4)
+груд. 04, 2025 8:52:39 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:52:39 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 04, 2025 8:52:39 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:52:39 ПП Util.MyLogger logWarning
+WARNING:  Невірний індекс: 5
+груд. 04, 2025 8:52:39 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:52:39 ПП Util.MyLogger logWarning
+WARNING:  Невірний індекс: -1
+груд. 04, 2025 8:52:39 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:52:39 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 04, 2025 8:52:39 ПП Util.MyLogger logInfo
+INFO:  Лицар знайдений: arthur
+груд. 04, 2025 8:52:39 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:52:39 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 04, 2025 8:52:39 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:52:39 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 04, 2025 8:52:39 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:52:39 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 04, 2025 8:52:39 ПП Util.MyLogger logInfo
+INFO:  Лицар знайдений: Arthur
+груд. 04, 2025 8:52:45 ПП Util.MyLogger getLogger
+INFO:  Logger ініціалізовано успішно!
+груд. 04, 2025 8:52:45 ПП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 04, 2025 8:52:45 ПП Main main
+INFO: Запуск програми
+груд. 04, 2025 8:52:45 ПП Main main
+INFO: Knight Management System запущена
+груд. 04, 2025 8:52:45 ПП Main main
+INFO: Logger інціалізований
+груд. 04, 2025 8:52:45 ПП Main main
+INFO: Усі команди зареєстровані
+груд. 04, 2025 8:53:14 ПП Util.MyLogger logWarning
+WARNING: ⚠ Лицар не знайдений: Ланселот
+груд. 04, 2025 8:53:23 ПП Util.MyLogger logInfo
+INFO: Лицар доданий: Ланселот (рівень: 1)
+груд. 04, 2025 8:53:56 ПП Util.MyLogger logInfo
+INFO: Збережено 1 лицарів у data\knights_4253.dat
+груд. 04, 2025 8:53:56 ПП Util.MyLogger logInfo
+INFO:  Випадковий файл створений: data\knights_4253.dat
+груд. 05, 2025 10:08:06 ДП Util.MyLogger getLogger
+INFO:  Logger ініціалізовано успішно!
+груд. 05, 2025 10:08:06 ДП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 05, 2025 10:08:06 ДП Main main
+INFO: Запуск програми
+груд. 05, 2025 10:08:06 ДП Main main
+INFO: Knight Management System запущена
+груд. 05, 2025 10:08:06 ДП Main main
+INFO: Logger інціалізований
+груд. 05, 2025 10:08:07 ДП Main main
+INFO: Усі команди зареєстровані
+груд. 05, 2025 10:18:32 ДП Util.MyLogger getLogger
+INFO:  Logger ініціалізовано успішно!
+груд. 05, 2025 10:18:33 ДП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 05, 2025 10:18:33 ДП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 05, 2025 10:18:33 ДП Util.MyLogger logWarning
+WARNING:  Невірний індекс для видалення: 5
+груд. 05, 2025 10:18:33 ДП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 05, 2025 10:18:33 ДП Util.MyLogger logWarning
+WARNING: ⚠ Лицар не знайдений: NonExistent
+груд. 05, 2025 10:18:33 ДП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 05, 2025 10:18:33 ДП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 05, 2025 10:18:33 ДП Util.MyLogger logInfo
+INFO: Лицар доданий: Lancelot (рівень: 6)
+груд. 05, 2025 10:18:33 ДП Util.MyLogger logInfo
+INFO: Очищено 2 лицарів
+груд. 05, 2025 10:18:33 ДП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 05, 2025 10:18:33 ДП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 05, 2025 10:18:33 ДП Util.MyLogger logInfo
+INFO: Лицар доданий: Lancelot (рівень: 6)
+груд. 05, 2025 10:18:33 ДП Util.MyLogger logInfo
+INFO: Лицар видален: Arthur
+груд. 05, 2025 10:18:33 ДП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 05, 2025 10:18:33 ДП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 05, 2025 10:18:33 ДП Util.MyLogger logInfo
+INFO: Лицар доданий: Lancelot (рівень: 6)
+груд. 05, 2025 10:18:33 ДП Util.MyLogger logInfo
+INFO: Лицар доданий: Gawain (рівень: 4)
+груд. 05, 2025 10:18:33 ДП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 05, 2025 10:18:33 ДП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 05, 2025 10:18:33 ДП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 05, 2025 10:18:33 ДП Util.MyLogger logWarning
+WARNING:  Невірний індекс: 5
+груд. 05, 2025 10:18:33 ДП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 05, 2025 10:18:33 ДП Util.MyLogger logWarning
+WARNING:  Невірний індекс: -1
+груд. 05, 2025 10:18:33 ДП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 05, 2025 10:18:33 ДП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 05, 2025 10:18:33 ДП Util.MyLogger logInfo
+INFO:  Лицар знайдений: arthur
+груд. 05, 2025 10:18:33 ДП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 05, 2025 10:18:33 ДП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 05, 2025 10:18:33 ДП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 05, 2025 10:18:33 ДП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 05, 2025 10:18:33 ДП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 05, 2025 10:18:33 ДП Util.MyLogger logInfo
+INFO: Лицар доданий: Arthur (рівень: 5)
+груд. 05, 2025 10:18:33 ДП Util.MyLogger logInfo
+INFO:  Лицар знайдений: Arthur
+груд. 05, 2025 10:51:22 ДП Util.MyLogger getLogger
+INFO:  Logger ініціалізовано успішно!
+груд. 05, 2025 10:51:22 ДП Util.MyLogger logInfo
+INFO:  KnightManager ініціалізований
+груд. 05, 2025 10:51:22 ДП Main main
+INFO: Запуск програми
+груд. 05, 2025 10:51:22 ДП Main main
+INFO: Knight Management System запущена
+груд. 05, 2025 10:51:22 ДП Main main
+INFO: Logger інціалізований
+груд. 05, 2025 10:51:22 ДП Main main
+INFO: Усі команди зареєстровані
+груд. 05, 2025 10:51:34 ДП Util.MyLogger logWarning
+WARNING: ⚠ Лицар не знайдений: Артур
+груд. 05, 2025 10:52:01 ДП Util.MyLogger logInfo
+INFO: Лицар доданий: Артур (рівень: 1)
+груд. 05, 2025 10:54:33 ДП Util.MyLogger logInfo
+INFO:  Завантажено 2 лицарів з data/knights_7958.dat
+груд. 05, 2025 10:54:43 ДП Util.MyLogger logInfo
+INFO: Лицар доданий: Ланселот (рівень: 1)
+груд. 05, 2025 10:54:43 ДП Util.MyLogger logInfo
+INFO: Лицар доданий: Дон Кіхот (рівень: 1)
